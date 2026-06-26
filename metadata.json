@@ -1,0 +1,6 @@
+{
+  "name": "Bücherei & Ausleihe Manager",
+  "description": "Echtzeit-Bibliotheksverwaltung mit Barcode-Generierung für Schüler- und Lehrerkarten, Fristen-Verwaltung, Buch-Scanner und automatischem ISBN-Lookup.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
